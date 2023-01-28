@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="43d143a2-0519-4a63-871e-cb7ac9286ad5" name="Changes" comment="trying to figure out how dates work" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="2KddiKdlJgXsisbHxwuHApOVac5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/studentwsb/Downloads/Game-StartupSimulator-master",
+    "project.structure.last.edited": "Global Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Projects" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="OtherClasses" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43d143a2-0519-4a63-871e-cb7ac9286ad5" name="Changes" comment="" />
+      <created>1674308523980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1674308523980</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Creating a repository">
+      <created>1674309025271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674309025272</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Creating a repository">
+      <created>1674309080327</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674309080327</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Working on the title screen">
+      <created>1674311885957</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1674311885957</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding settings - this will allow users to change colors.">
+      <created>1674312612381</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674312612381</updated>
+    </task>
+    <task id="LOCAL-00005" summary="working on collors...">
+      <created>1674314059647</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674314059647</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Finished settings. User can now select a font and background color.">
+      <created>1674322147117</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674322147117</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Created daily options, as well as a base for testing option">
+      <created>1674326539624</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674326539624</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Creating templates for projects and all humans...">
+      <created>1674387557899</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674387557899</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Creating templates for projects and all humans... part2">
+      <created>1674387666273</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674387666273</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Created a template for random numbers. Also working on randomizing projects, so far there are random names">
+      <created>1674393084028</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1674393084028</updated>
+    </task>
+    <task id="LOCAL-00011" summary="More work on random projects. Now there are random titles and descriptions each time!">
+      <created>1674395623477</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1674395623477</updated>
+    </task>
+    <task id="LOCAL-00012" summary="More work on randomizing projects, CL12">
+      <created>1674399184033</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1674399184033</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Even more work on projects. Now there are names, descriptions, requirements, and easy/medium/hard levels.">
+      <created>1674406710436</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1674406710436</updated>
+    </task>
+    <task id="LOCAL-00014" summary="trying to create a class for actual projects. this will assign generated projects to it.">
+      <created>1674408388928</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1674408388928</updated>
+    </task>
+    <task id="LOCAL-00015" summary="trying to create a class for actual projects. this will assign generated projects to it.&#10;Side note: i have no idea what i'm doing after ~9 hours of non-stop code">
+      <created>1674410786168</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1674410786168</updated>
+    </task>
+    <task id="LOCAL-00016" summary="more work on project class">
+      <created>1674495915315</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1674495915315</updated>
+    </task>
+    <task id="LOCAL-00017" summary="even more work on project class&#10;it is kinda working now so hopefully tomorrow i can start working on other stuff">
+      <created>1674505119997</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1674505119997</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Fixed setters not working while displaying stats.">
+      <created>1674578338939</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1674578338939</updated>
+    </task>
+    <task id="LOCAL-00019" summary="added deadline and work days required variables to the project class and set them up with the difficulty generator. This is temporary as I still need to figure out how to do dates properly.&#10;A fix for check variable incorrectly counting, which would break project checks&#10;&#10;Generating projects is like 90% done already.&#10;Time to create the client class and connect it with project generators.">
+      <created>1674583370835</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1674583370835</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Daily choices are kinda working.&#10;Now the game properly starts :)">
+      <created>1674586867497</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1674586867497</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Creating multiple classes to start working on people">
+      <created>1674588794905</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1674588794905</updated>
+    </task>
+    <task id="LOCAL-00022" summary="trying to figure out how dates work">
+      <created>1674674011651</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1674674011651</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Creating a repository" />
+    <MESSAGE value="Working on the title screen" />
+    <MESSAGE value="Adding settings - this will allow users to change colors." />
+    <MESSAGE value="working on collors..." />
+    <MESSAGE value="Finished settings. User can now select a font and background color." />
+    <MESSAGE value="Created daily options, as well as a base for testing option" />
+    <MESSAGE value="Creating templates for projects and all humans..." />
+    <MESSAGE value="Creating templates for projects and all humans... part2" />
+    <MESSAGE value="Created a template for random numbers. Also working on randomizing projects, so far there are random names" />
+    <MESSAGE value="More work on random projects. Now there are random titles and descriptions each time!" />
+    <MESSAGE value="More work on randomizing projects, CL12" />
+    <MESSAGE value="Even more work on projects. Now there are names, descriptions, requirements, and easy/medium/hard levels." />
+    <MESSAGE value="trying to create a class for actual projects. this will assign generated projects to it." />
+    <MESSAGE value="trying to create a class for actual projects. this will assign generated projects to it.&#10;Side note: i have no idea what i'm doing after ~9 hours of non-stop code" />
+    <MESSAGE value="more work on project class" />
+    <MESSAGE value="even more work on project class&#10;it is kinda working now so hopefully tomorrow i can start working on other stuff" />
+    <MESSAGE value="Fixed setters not working while displaying stats." />
+    <MESSAGE value="added deadline and work days required variables to the project class and set them up with the difficulty generator. This is temporary as I still need to figure out how to do dates properly.&#10;A fix for check variable incorrectly counting, which would break project checks&#10;&#10;Generating projects is like 90% done already.&#10;Time to create the client class and connect it with project generators." />
+    <MESSAGE value="Daily choices are kinda working.&#10;Now the game properly starts :)" />
+    <MESSAGE value="Creating multiple classes to start working on people" />
+    <MESSAGE value="trying to figure out how dates work" />
+    <option name="LAST_COMMIT_MESSAGE" value="trying to figure out how dates work" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="4" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ArrayIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="11" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StackOverflowError" package="java.lang" />
+          <option name="timeStamp" value="20" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Gra___startup_simulator$Main.ic" NAME="Main Coverage Results" MODIFIED="1674320078825" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
